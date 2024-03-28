@@ -20,8 +20,8 @@
 * Pestszentimre központ kb. 10-15 perces séta (vonat a Nyugatiba)
 
 # További információk:
-* A felújításokról részletes leírás a "Felújítások.txt" fájlban
-* Ismert hibák listája igény esetén
+* [Elvégzett felújítások](https://github.com/Mortens4444/Brigad-47/blob/main/For%20sale/Fel%C3%BAj%C3%ADt%C3%A1sok.txt)
+* [Ismert hibák](https://github.com/Mortens4444/Brigad-47/blob/main/For%20sale/Hib%C3%A1k.txt)
 * Több kép kérésre
 * Ez a ház ideális lehet családoknak, akik csendes, zöldövezeti környezetben szeretnének élni, de közel a városhoz.
 

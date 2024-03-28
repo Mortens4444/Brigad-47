@@ -1,32 +1,31 @@
 Nagy ház
 --------
-- Bejárati ajtón a küszöb hiányzik
+- Bejárati ajtónál a küszöb sérülés miatt hiányzik (betonból lett kiöntve)
 - Szintkülönbségek vannak a szobák közt
-- Fürdőszobában kimaradt a bűzzáró szifon, a zuhanyzó így 10 cm-rel magasabbra került (megáll benne a víz)
-- Kémény melletti beázás miatt csunyán lett javítva
+- Fürdőszobában kimaradt a bűzzáró szifon, ezért a javítéskor a zuhanyzó 10 cm-rel magasabbra került (megáll benne a víz)
+- Kémény mellett beázás történt, ennek a javítása csunyán sikerült
 - Kémény díszburkolat nincs befejezve
 - A vízszint és függőleges nem mindig sikerült
-- Penészesedés van (páraelszívó van, beépítésre vár)
-- Spájzban az elektromos tábla mögötti falon a vakolás nagyon gyengére sikerült
+- Penészesedés van a hálószobában és a spájzban (páraelszívó van, beépítésre vár)
+- Spájzban az elektromos tábla mögötti falon a vakolás nagyon gyengére sikerült, látszódnak az elektromos vezetékek (el kéne takarni valami burkolással)
 - Fürdőszobában a bukó-nyíló ablak nem buktatható
-- Fürdőszobában a zuhyanzóban és a konyhában az ajtóval szemközti falon a csempe le akar esni
-- Fürdőszoba plafon is csempézve van (állítólag ez azért problémás, mert a fuga vezeti el a nedvességet, és így elkezdhetnek le potyogni a csempék)
-- Gázvezetékek és konvektor parapet kiállások nem szakszerűen lettek javítva homlokzati szigetelésnek
+- Fürdőszobában a zuhyanzóban és a konyhában az ajtóval szemközti falon a csempe le akar esni (pogácsásan tette fel a csempész vagyis a burkoló)
+- Fürdőszoba plafon is csempézve van (állítólag ez azért problémás, mert a fuga vezeti el a nedvességet, és így elkezdhetnek lepotyogni a csempék)
+- Gázvezetékek és konvektor parapet kiállások nem szakszerűen lettek javítva homlokzati szigetelésen
 - Ereszcsatornán a bejárati kapunál az elvezetést jobban meg kéne csinálni
 - Bejárati kapu mellett megáll a víz a betonon
-- A lemezes fészerek párazáró fólia nélkül készülttek el
-- Penészesedés a hálószobában és a spájzban
+- A lemezes fészerek párazáró fólia nélkül készültek el
 
 Melléképület
 ------------
-- Beázás utáni javítások (mivel a tetőn hibát nem találtunk, a tető mohátlanítása történt meg, azóta nem tapasztaltunk beázást)
+- Beázás utáni javítások (mivel a tetőn hibát nem találtunk, a tető mohátlanítása történt meg, itt meg kéne keresni a hiba forrását és javítani kéne)
 
 Fészer
 ------
-- Ipari áram bevezetve, de sajnos zárlatos
+- Ipari áram bevezetve, de sajnos használatkor leveri a bitzztosítékot (valószínűleg valami zárlatos - villanyszerelő)
 
 Kert
 ----
 - Kerti csap nem működik
-- Hiányzó kerítés a Kovácsik család felőli oldalon
-- Garázs jelenleg nem használható
+- Hiányzó kerítésrész a Brigád utca 45 felől (jelenleg csak ki van húzva egy keritésháló, nem tud átjönni a szomszéd kutyája)
+- A garázs jelenleg nem használható (félkész állapotban van - kapu és kapumotor még nincs megvéve)
