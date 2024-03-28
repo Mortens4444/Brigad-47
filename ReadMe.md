@@ -22,7 +22,8 @@
 # További információk:
 * [Elvégzett felújítások](https://github.com/Mortens4444/Brigad-47/blob/main/For%20sale/Fel%C3%BAj%C3%ADt%C3%A1sok.txt)
 * [Ismert hibák](https://github.com/Mortens4444/Brigad-47/blob/main/For%20sale/Hib%C3%A1k.txt)
-* Több kép kérésre
+* [Alaprajz](https://github.com/Mortens4444/Brigad-47/blob/main/Alaprajz/Alaprajz%20(Kerttel).pdf)
+* [Képek](https://github.com/Mortens4444/Brigad-47/tree/main/K%C3%A9pek)
 * Ez a ház ideális lehet családoknak, akik csendes, zöldövezeti környezetben szeretnének élni, de közel a városhoz.
 
 # Érdeklődni:
