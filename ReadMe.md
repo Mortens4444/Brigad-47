@@ -28,5 +28,7 @@
 
 # Érdeklődni:
 Papp Tibor
-+36 30 452 5555
-mortens.4444@gmail.com
+
+[+36 30 452 5555](tel://+36304525555)
+
+[mortens.4444@gmail.com](mailto://mortens.4444@gmail.com)
