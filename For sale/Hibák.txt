@@ -27,5 +27,4 @@ Fészer
 Kert
 ----
 - Kerti csap nem működik
-- Hiányzó kerítésrész a Brigád utca 45 felől (jelenleg csak ki van húzva egy keritésháló, nem tud átjönni a szomszéd kutyája)
-- A garázs jelenleg nem használható (félkész állapotban van - kapu és kapumotor még nincs megvéve)
+- A garázs jelenleg fedél nélkül használható

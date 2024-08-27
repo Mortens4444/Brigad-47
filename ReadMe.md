@@ -12,7 +12,7 @@
 * Földkábel összeköttetés a két ház között
 * Játszótérként leválasztott kert
 * Engedélyezett ásott kút
-* Parkolás a telken kívül
+* Parkolás a telken kívül és belül is lehetséges
 
 # A környékről:
 * Jólelkű, segítőkész szomszédok
@@ -32,3 +32,5 @@ Papp Tibor
 [+36 30 452 5555](tel://+36304525555)
 
 [mortens.4444@gmail.com](mailto://mortens.4444@gmail.com)
+
+Kisebb ház (33 m2): 1,5 szoba, előszoba, főzőfülke, fürdőszoba
