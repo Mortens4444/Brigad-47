@@ -1,4 +1,4 @@
-# Ár: 73 900 000 Ft
+# Ár: 79 000 000 Ft
 
 # [Az ingatlanról:](https://dh.hu/ingatlan/HZ067330/elado-haz-budapest-18-kerulet)
 * 710 m2 telek
