@@ -1,6 +1,7 @@
 # Ár: 75 000 000 Ft
 
-# [Duna House az ingatlanról](https://dh.hu/ingatlan/HZ067330/elado-haz-budapest-18-kerulet)
+# [Starting ingatlan](https://startingingatlan.hu/ingatlant-megnez/41596)
+# [Duna House](https://dh.hu/ingatlan/HZ067330/elado-haz-budapest-18-kerulet)
 
 * 710 m² telek
 * 2 különálló ház:
