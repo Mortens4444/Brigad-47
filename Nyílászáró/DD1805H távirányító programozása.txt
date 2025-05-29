@@ -1,0 +1,56 @@
+1. Távirányító másolása
+-----------------------
+- Csatorna kiválasztása
+- Másolandó távirányító: Le, Stop, Jobb P2, Jobb P2
+- Új távirányító: Jobb P2
+
+2. Felső végállás beállítása
+----------------------------
+- Állítsuk a redőny a felső végállás pozíciójába
+- Fel + Stop egyszerre nyomva tartása kb. 5 mp-ig
+
+3. Alsó végállás beállítása
+---------------------------
+- Állítsuk a redőny a felső végállás pozíciójába
+- Le + Stop egyszerre nyomva tartása kb. 5 mp-ig
+
+4. Köztes pozíció beállítása
+----------------------------
+- Állítsuk a redőny a köztes pozíciójába
+- Stop, Jobb P2, Stop, Stop
+
+5. Köztes pozíció előhívása
+---------------------------
+- Stop 5 mp-ig
+
+NEM TESZTELT
+
+6. Visszapörgető funkció beállítása (Akadály esetén visszahúzza a redőnyt)
+--------------------------------------------------------------------------
+- Jobb P2, Le, Le
+
+7. Távirányító törlése
+----------------------
+- Jobb P2, Stop, Jobb P2
+
+8. Forgásirányváltás
+--------------------
+- Le + Fel egyszerre nyomva tartása kb. 2 mp-ig
+
+Fali nyomógomb
+--------------
+Fali nyomógomb bekötése a fekete és fehér vezetékek segítségével történhet.
+
+Összehangolás
+-------------
+- Csatorna kiválasztása
+- Áram alá helyezzük a redőnyt (csak amelyiket párosítani akarjuk) (vagy nyomjuk le a motor fején lévő fehér gombot, amíg a motor nem jelez) és 10 mp-n belül
+- Stop nyomva tartása kb. 2 mp-ig
+
+Érzékenység állítás
+-------------------
+- Jobb P2, Stop, Le
+
+Jeltovábbító funkció aktiválása
+-------------------------------
+- Jobb P2 gomb nyomva tartása (1 sípolás és mozgás jelzi, hogy kész)
