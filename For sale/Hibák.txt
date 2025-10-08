@@ -2,8 +2,8 @@ Nagy ház
 --------
 - Bejárati ajtónál a küszöb sérülés miatt hiányzik (betonból lett kiöntve)
 - Szintkülönbségek vannak a szobák közt
-- Fürdőszobában kimaradt a bűzzáró szifon, ezért a javítéskor a zuhanyzó 10 cm-rel magasabbra került (megáll benne a víz)
-- Kémény mellett beázás történt, ennek a javítása csunyán sikerült
+- Fürdőszobában kimaradt a bűzzáró szifon, ezért a javításkor a zuhanyzó 10 cm-rel magasabbra került (megáll benne a víz)
+- Kémény mellett beázás történt, ennek a javítása csunyán sikerült és azóta volt új beázás ott
 - Kémény díszburkolat nincs befejezve
 - A vízszint és függőleges nem mindig sikerült
 - Penészesedés van a hálószobában és a spájzban (páraelszívó van, beépítésre vár)
@@ -22,9 +22,8 @@ Melléképület
 
 Fészer
 ------
-- Ipari áram bevezetve, de sajnos használatkor leveri a bitzztosítékot (valószínűleg valami zárlatos - villanyszerelő)
+- Ipari áram bevezetve, de sajnos használatkor leveri a biztosítékot (valószínűleg valami zárlatos)
 
 Kert
 ----
 - Kerti csap nem működik
-- A garázs jelenleg fedél nélkül használható

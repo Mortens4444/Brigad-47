@@ -10,7 +10,7 @@ Nagy ház
 - 3 fázisú betáplálás + új rézvezetékezés
 - Réz vízvezetékek
 - Napelem (GE104652_PappTibor_Budapest.pdf) + Ad-Vesz mérőóra (szabványosítás)
-- KPE cső elvezetése a Nagyháztól a kinti csapig (bekötésre vár)
+- KPE cső elvezetése a Nagyháztól a kinti csapig és onnan a mérőórához is (jelenleg azon dolgozunk, hogy a kisházba is KPE csövön keresztül jusson el a víz)
 - Bejárati kapu melletti kis tároló fészer + kis pince kiépítése
 - Belső ajtók cseréje
 - Konyhában egy új ajtónyílás kialakítása
@@ -47,6 +47,7 @@ Kert
 - Emésztőgödör feltöltése
 - Gyermek játszótér kialakítása (kert a kertben)
 - Kerítés csere
+- Sátortetős autóbeálló
 
 Közterület
 ----------
