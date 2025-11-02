@@ -42,16 +42,15 @@ Kút
 
 Kert
 ----
-- Beteg fák kivágása, új gyümölcsfák ültetése (alma, meggy, szilva, füge)
-- Diófa kivágása, tereprendezés autóbeállóhoz
+- Beteg fák kivágása, új gyümölcsfák ültetése (alma, meggy, szilva)
 - Emésztőgödör feltöltése
 - Gyermek játszótér kialakítása (kert a kertben)
-- Kerítés csere
+- Kerítés csere (részleges)
 - Sátortetős autóbeálló
 
 Közterület
 ----------
-- Meggyfák 5 db
+- Meggyfa 5 db
 - Almafa
 - Csersznyefa
 - Körtefa 2 db
