@@ -1,4 +1,4 @@
-# Ár: 75 000 000 Ft
+# Ár: 76 000 000 Ft
 
 # [Starting ingatlan](https://startingingatlan.hu/ingatlant-megnez/41596)
 # [Duna House](https://dh.hu/ingatlan/HZ067330/elado-haz-budapest-18-kerulet)
