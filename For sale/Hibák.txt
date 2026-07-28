@@ -9,7 +9,8 @@ Nagy ház
 - Penészesedés van a hálószobában és a spájzban (páraelszívó van, beépítésre vár)
 - Spájzban az elektromos tábla mögötti falon a vakolás nagyon gyengére sikerült, látszódnak az elektromos vezetékek (el kéne takarni valami burkolással)
 - Fürdőszobában a bukó-nyíló ablak nem buktatható
-- Fürdőszobában a zuhanyzóban és a konyhában az ajtóval szemközti falon a csempe le akar esni (pogácsásan tette fel a csempész, vagyis a burkoló) - ideiglenesen, részleges javítás történt.
+- Fürdőszobában a zuhanyzóban a csempe leesett, ideiglenesen lett javítva
+- A konyhában az ajtóval szemközti falon a csempe le akar esni (pogácsásan tette fel a csempész, vagyis a burkoló)
 - Fürdőszoba plafon is csempézve van (állítólag ez azért problémás, mert a fuga vezeti el a nedvességet, és így elkezdhetnek lepotyogni a csempék)
 - Gázvezetékek és konvektor parapet kiállások nem szakszerűen lettek javítva homlokzati szigetelésen
 - Ereszcsatornán a bejárati kapunál az elvezetést jobban meg kéne csinálni
@@ -23,7 +24,3 @@ Melléképület
 Fészer
 ------
 - Ipari áram bevezetve, de sajnos használatkor leveri a biztosítékot (valószínűleg valami zárlatos)
-
-Kert
-----
-- Kerti csap nem működik

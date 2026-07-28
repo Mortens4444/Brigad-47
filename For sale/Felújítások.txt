@@ -47,6 +47,7 @@ Kert
 - Gyermek játszótér kialakítása (kert a kertben)
 - Kerítés csere (részleges)
 - Sátortetős autóbeálló
+- Kerti csap javítva + KPE cső mindenhol
 
 Közterület
 ----------
