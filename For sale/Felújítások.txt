@@ -17,6 +17,8 @@ Nagy ház
 - Galéria a hálószobában
 - Gáz kikötése + elektromos sütő és főzőlap beépítése
 - Álmennyezet + üveggyapot szigetelés
+- Spájzban az elektromos tábla javítva
+- Nappali klimatizálva
 
 Melléképület
 ------------
@@ -29,11 +31,17 @@ Melléképület
 - Internet megosztása a nagy házból (föld és levegő kábelen is - az egyik sajnos nem működik)
 - Elektromos zárlat megszűntetése (sajnos ez jelenleg falon kívül elvezetett elektromos kábelen keresztül történt meg)
 - Részleges elektromos rendszer felújítás
+- Ajtócsere
+- Elektromos hálózat felújítása
 
 Kis fészer
 ----------
 - Lindab lemeztető
-- Elektromos hálózat javítása + felújítás
+- Elektromos hálózat felújítása
+
+Fészer
+------
+- Ipari áram bevezetve (16A, 32A)
 
 Kút
 ---
@@ -46,7 +54,7 @@ Kert
 - Emésztőgödör feltöltése
 - Gyermek játszótér kialakítása (kert a kertben)
 - Kerítés csere (részleges)
-- Sátortetős autóbeálló
+- Fedetlen autóbeálló
 - Kerti csap javítva + KPE cső mindenhol
 
 Közterület
