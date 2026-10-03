@@ -19,6 +19,7 @@ Nagy ház
 - Álmennyezet + üveggyapot szigetelés
 - Spájzban az elektromos tábla javítva
 - Nappali klimatizálva
+- Fujitsu AIRSTAGE ASEH12KMCG klíma telepítése (2026.08.07)
 
 Melléképület
 ------------
@@ -33,6 +34,7 @@ Melléképület
 - Részleges elektromos rendszer felújítás
 - Ajtócsere
 - Elektromos hálózat felújítása
+- Fujitsu AIRSTAGE ASEH12KMCG klíma telepítése (2026.09.17)
 
 Kis fészer
 ----------
