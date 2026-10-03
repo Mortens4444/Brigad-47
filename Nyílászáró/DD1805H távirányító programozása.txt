@@ -11,7 +11,7 @@
 
 3. Alsó végállás beállítása
 ---------------------------
-- Állítsuk a redőny a felső végállás pozíciójába
+- Állítsuk a redőny az alsó végállás pozíciójába
 - Le + Stop egyszerre nyomva tartása kb. 5 mp-ig
 
 4. Köztes pozíció beállítása
